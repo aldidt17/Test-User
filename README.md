@@ -11,7 +11,7 @@
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-repo/laravel12-crud-modal.git
+git clone https://github.com/aldidt17/Test-User.git
 cd laravel12-crud-modal
 
 2. instal dependency :
